@@ -1,0 +1,22 @@
+pwd -> present working directory 
+ls -> list of files in current directory
+ls -a -> list all (inculding hidden file) 
+ls -al -> list all (with detailed information)
+touch fileName -> to create file
+. -> single dot means current directory
+.. -> double dot means previous directory
+cd -> change directory
+
+
+
+Commands -> text, case sensative
+Shell -> interpretor program 
+Terminal -> Window into shell 
+
+Bash -> bourne again shell
+Bash -> bourne again shell
+sh -> shell
+
+root -> super user 
+sudo -i -> login as super user 
+su - username -> return to normal user from super user 
