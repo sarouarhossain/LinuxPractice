@@ -1,0 +1,40 @@
+
+** all commands are small program, installed somewhere in your pc.
+
+command => commandName option input
+
+echo hello
+echo -> commandName
+hello -> input
+
+echo $PATH  
+/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+
+java --version
+
+** every command's path location must be set in $PATH variable. otherwise it will show command not found error
+
+java --version
+java -> command
+
+Timezone
+-------------
+UTC -> 0 
+BST -> +6
+SST -> +8
+JST -> +9
+
+--version -> after option -- for fullname
+-V -> after option - for sortend name
+
+cal -B 1 -A 1 7 1971
+-B means before, then 1 means one month
+-A means after, then 1 means one month
+7 1971 means july 1971
+
+june, july, august
+
+man -> manual
+man cal -> cal command r details
+man man -> man command r details
+
